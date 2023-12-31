@@ -140,6 +140,7 @@ Execute the program using runserver command.
 '''
 
 ## OUTPUT
+![output](https://github.com/dinesh2068/slot/assets/151390189/7bf1aa31-138a-407c-a6a4-6c04fe469678)
 
 
 ## RESULT
